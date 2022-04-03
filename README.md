@@ -1,23 +1,25 @@
-NAV:
+# Search Engine Optimization
+
+To optimize Horiseon's webpage fore search engines, <div> elements were replaced with semantic elements when applicable. While refactoring Horiseon's webpage I also went through the HTML and CSS code to better identify sections with comments and clean up any messy code. A list of edits made to both documents is provided below:
+
+
+# HTML Header
     Changed title to Horiseon.
     Changed div header to header and div inside header to nav. Updated style sheet accordingly.
 
-SEARCH ENGINE OPTIMIZATION:
-    added ID to link nav to section.
-    added alt  description to image.
+# HTML CONTENT:
+    Added ID to link nav to the search engine optimization section.
+    Added alt  description to images.
 
+# HTML BENIFITS:
+    Added alt description to images.
 
-ONLINE REPUTATION MANAGEMENT:
-    added alt description to image.
+# HTML FOOTER:
+    Changed div to footer.
 
-
-SOCIAL MEDIA MARKETING:
-
-
-BENIFITS:
-
-
-FOOTER
-
-
-CSS ADDITIONAL EDITS
+# CSS EDITS:
+    Combined header elements and made it an element distinction instead of class.
+    Combined content stylings into a content class instead of using individual classes for each article.
+    Combined benifits stylings into a benifits class instead of using individual classes for each div.
+    Turned footer into an element distinction instead of class.
+    Reorganized style sheet to keep benifits and content info next to each other.

@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header Style Start */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -42,11 +43,9 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/* Header Style End */
 
-p {
-    font-size: 16px;
-}
-
+/* Hero/Jumbotron Style Start */
 .hero {
     height: 800px;
     width: 100%;
@@ -55,7 +54,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero/Jumbotron Style End */
 
+/* Content Style Start */
 .content {
     width: 75%;
     display: inline-block;
@@ -90,6 +91,12 @@ p {
     font-size: 36px;
 }
 
+p {
+    font-size: 16px;
+}
+/* Content Style End */
+
+/* Benefits Style Start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,7 +123,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Benefits Style End */
 
+/* Footer Style Start */
 footer {
     padding: 30px;
     clear: both;
@@ -127,3 +136,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* Footer Style End */
