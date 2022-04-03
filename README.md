@@ -4,10 +4,11 @@ NAV:
 
 SEARCH ENGINE OPTIMIZATION:
     added ID to link nav to section.
-    added alt to image.
+    added alt  description to image.
 
 
 ONLINE REPUTATION MANAGEMENT:
+    added alt description to image.
 
 
 SOCIAL MEDIA MARKETING:
