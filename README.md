@@ -1,6 +1,6 @@
 # Search Engine Optimization
 
-To optimize Horiseon's webpage fore search engines, <div> elements were replaced with semantic elements when applicable. While refactoring Horiseon's webpage I also went through the HTML and CSS code to better identify sections with comments and clean up any messy code. A list of edits made to both documents is provided below:
+To optimize Horiseon's webpage fore search engines, div elements were replaced with semantic elements when applicable. While refactoring Horiseon's webpage I also went through the HTML and CSS code to better identify sections with comments and clean up any messy code. A list of edits made to both documents is provided below:
 
 
 # HTML Header
