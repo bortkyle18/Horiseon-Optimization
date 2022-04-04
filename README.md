@@ -9,9 +9,11 @@ To optimize Horiseon's webpage fore search engines, div elements were replaced w
 
 # HTML CONTENT:
     Added ID to link nav to the search engine optimization section.
+    Changed div to section and the divs inside the section element to article to better define section for search engines.
     Added alt  description to images.
 
 # HTML BENIFITS:
+    Changed div to section and the divs inside the section element to aside to better define section for search engines.
     Added alt description to images.
 
 # HTML FOOTER:
